@@ -1,6 +1,6 @@
 Config = Config or {}
 
-Config.Style = "australia"
+Config.Style = "sweden"
 
 --[[
     Config.Style Styles
@@ -8,5 +8,6 @@ Config.Style = "australia"
     "enhanced"
     "enhanced2"
     "libertycity"
+    "sweden"
     "vicecity"
 ]]
